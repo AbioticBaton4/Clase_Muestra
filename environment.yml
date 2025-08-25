@@ -1,0 +1,17 @@
+name: clase_muestra_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - opencv
+  - scikit-image
+  - matplotlib
+  - pillow
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pandas
+  - scikit-learn
+  
