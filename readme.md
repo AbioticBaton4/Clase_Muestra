@@ -3,7 +3,7 @@
 Este repositorio contiene el material necesario para la clase muestra sobre una introducción práctica a los conceptos de Inteligencia Artificial y su aplicación en el análisis de datos. El objetivo de este proyecto es demostrar un flujo de trabajo básico para analizar un conjunto de datos utilizando librerías populares de Python.
 
 !(https://i.imgur.com/4J7f8bY.png)
-*Nota: Puedes cambiar la URL de la imagen por una propia.*
+
 
 ***
 
@@ -28,8 +28,7 @@ Primero, clona este repositorio en tu máquina local y navega al directorio del 
 
 ```bash
 # Clona el repositorio
-git clone [https://www.youtube.com/watch?v=3GymExBkKjE](https://www.youtube.com/watch?v=3GymExBkKjE)
-
+git clone https://github.com/AbioticBaton4/Clase_Muestra
 # Entra en la carpeta del proyecto
 cd CLASE_MUESTRA
 ```
@@ -46,7 +45,7 @@ Este método instalará la **versión correcta de Python** y todas las librería
 conda env create -f environment.yml
 
 # Activa el entorno recién creado
-conda activate clase_muestra
+conda activate clase_muestra_env
 ```
 
 #### Opción B: Usando pip y Entorno Virtual
