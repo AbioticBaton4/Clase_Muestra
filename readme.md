@@ -29,7 +29,7 @@ Primero, clona este repositorio en tu máquina local y navega al directorio del 
 # Clona el repositorio
 git clone https://github.com/AbioticBaton4/Clase_Muestra
 # Entra en la carpeta del proyecto
-cd CLASE_MUESTRA
+cd Clase_Muestra
 ```
 ### Paso 2: Configurar el Entorno
 
@@ -73,7 +73,7 @@ Con tu entorno (`conda` o `venv`) activado, ya puedes ejecutar el script princip
 
 ```bash
 # Para ejecutar un script desde la terminal
-python nombre_del_script_principal.py
+python pruebas.py
 
 # Para abrir el proyecto en VS Code
 code .
